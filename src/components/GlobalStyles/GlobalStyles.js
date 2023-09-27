@@ -67,6 +67,9 @@ html {
   --font-family-serif: ${FAMILIES.serif};
   --font-family-sans-serif: ${FAMILIES.sansSerif};
   --font-family-logo: ${FAMILIES.logo};
+
+  --story-border: 1px var(--color-gray-300) solid;
+  --story-margin: 16px;
 }
 
 

@@ -50,9 +50,6 @@ const MainStoryGrid = () => {
 };
 
 const Wrapper = styled.div`
-  --story-border: 1px var(--color-gray-300) solid;
-  --story-margin: 16px;
-
   display: grid;
   grid-template-areas:
     'main-story'
